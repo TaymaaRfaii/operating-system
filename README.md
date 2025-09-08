@@ -21,13 +21,13 @@ int memsize(void);
 Returns the calling process’s memory size.
 
 Includes a test program: memsize_test.c.
-Task 3 – Goodbye World
+### Task 3 – Goodbye World
 
 Extended exit and wait system calls to support exit messages.
 
 Added goodbye.c and modified sh.c to print exit messages.
 
-Task 4 – Distributing Work
+### Task 4 – Distributing Work
 
 Implemented:
 
